@@ -15,4 +15,9 @@ a. Summary Report - Summary execution results can be viewed in Summary report un
 7. The generic functions are written in ElementWrappers class file. This would help in maximum reuse of the functions written for performing different actions on mobile app and completion of automation faster.   
 
 Execute scripts using command: 
-1. "mvn test"
+8. "mvn test"
+
+9. Github Repos link "https://github.com/rkrahulmishra887/Exit-Test-Appium-Framework.git"
+
+10. Jenkins url "http://localhost:8080/job/Exit-Test-Appium-Framework/3/git/ "
+
