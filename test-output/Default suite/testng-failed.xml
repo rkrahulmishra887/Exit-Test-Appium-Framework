@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.demoApp.runner.RunFeatures">
+        <methods>
+          <include name="endSuite"/>
+          <include name="tearDownClass"/>
+          <include name="scenario"/>
+          <include name="setup"/>
+          <include name="startSuite"/>
+          <include name="teardown"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- com.demoApp.runner.RunFeatures -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
